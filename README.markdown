@@ -52,7 +52,7 @@ Download:
 ```
 
 ### Notes
-- `--index` uses a special index file. See [rbt-index.txt][https://github.com/metaist/iwt-tools/blob/master/rbt-index.txt] for an example.
+- `--index` uses a special index file. See [rbt-index.txt](https://github.com/metaist/iwt-tools/blob/master/rbt-index.txt) for an example.
 - `--num` is 1-index; you can get the first issue using `-n 1`
 - `--cookies` is a combination of whatever `wget` and `aria2c` accept.
 - `--pass` should not be given on the command-line, but it's there for convenience.
