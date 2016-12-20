@@ -2,7 +2,7 @@
 _Tools for I Will Teach courses._
 
 ## Why?
-On 01 Dec 2016, Ramit Sethi annouced he's shutting down Ramit's Brain Trust (RBT) and that everyone should download past interviews before 30 Dec 2016. So I wrote a small tool that would download the interviews overnight and could resume downloading if the connection died.
+On 01 Dec 2016, Ramit Sethi announced he's shutting down Ramit's Brain Trust (RBT) and that everyone should download past interviews before 30 Dec 2016. So I wrote a small tool that would download the interviews overnight and could resume downloading if the connection died.
 
 I plan on extending this to other IWT courses like Earn1K (E1K) and Dream Job (DJ) in the future.
 
